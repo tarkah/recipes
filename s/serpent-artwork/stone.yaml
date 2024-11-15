@@ -5,7 +5,7 @@
 #
 name        : serpent-artwork
 version     : "0"
-release     : 3
+release     : 4
 summary     : Serpent OS Artwork
 license     : Distributable
 homepage    : https://github.com/serpent-os/artwork
